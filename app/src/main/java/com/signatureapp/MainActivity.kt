@@ -43,6 +43,7 @@ class MainActivity : AppCompatActivity() {
         Manifest.permission.READ_EXTERNAL_STORAGE,
         Manifest.permission.WRITE_EXTERNAL_STORAGE
     )
+
     private val stokeList = arrayOf( 5, 10, 15, 20,30,35)
     private lateinit var sizeDialog:Dialog
     override fun onCreate(savedInstanceState: Bundle?) {
