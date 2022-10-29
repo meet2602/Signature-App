@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Signature App</string>
+    <string name="undo">Undo</string>
+    <string name="save_signature">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear</string>
+    <string name="pen_width">Pen Width</string>
+</resources>
